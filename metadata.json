@@ -1,0 +1,6 @@
+{
+  "name": "Saatvik Pharma",
+  "description": "Premium healthcare, ayurvedic wellness, and pharmaceutical e-commerce storefront with product variations, cart, checkout, order tracking, and private admin portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
